@@ -1,0 +1,47 @@
+*{
+    background-color: beige;
+    
+}
+
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+h2{
+    color: blue;
+    text-align: center;
+}
+
+img{
+    margin: auto;
+}
+
+form{
+    font-style: oblique;
+    font-display: inherit;
+    text-align: center;
+}
+
+
+p{
+    text-align:justify;
+    border-style: double;
+}
+
+img{ border-style: groove;
+    border-radius: 30px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
+
+p{
+    text-align:start;
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
