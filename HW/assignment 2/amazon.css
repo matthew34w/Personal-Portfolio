@@ -71,5 +71,6 @@ h1{
 div.a{
     text-align: left;
     margin-left: 20px;
+    list-style-type: none;
 }
 
